@@ -1,6 +1,6 @@
 -- to see more features the docs: https://github.com/as6cd0/splibv2/blob/main/splibDocumentation.md
 
-local splib = loadstring(game:HttpGet("https://raw.githubusercontent.com/as6cd0/SP_Hub/refs/heads/main/splibv2"))()
+local splib = loadstring(game:HttpGet("https://raw.githubusercontent.com/sukunahub16-wq/Sp-gui-free/refs/heads/main/splibv2%20(1).txt"))()
 
 local Window = splib:MakeWindow({
  Name = "SP Hub Library v2",
